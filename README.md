@@ -1,4 +1,4 @@
-# Trabalho de Introdução à Computação (A2)
+# Trabalho de Introdução à Computação (AS)
 criando jogo no pygame
 ## Integrantes
 - Rian Freitas da Silva
